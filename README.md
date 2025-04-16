@@ -2,11 +2,9 @@
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 
 ## Problem statement
 
@@ -31,20 +29,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/gireesh2580/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/gireesh2580/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/gireesh2580/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
 </p>
 
 ## Learnt things from this Project 
